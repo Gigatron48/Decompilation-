@@ -1,0 +1,7 @@
+chat_id=845238816
+
+key_captha=de30f4b56c3dee1b1be4585718bd5618
+key_captha_anti=e788452a9986000d1585b87e9f166365
+
+log=22925
+pas=VlaD40284
